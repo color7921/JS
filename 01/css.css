@@ -1,0 +1,21 @@
+.detailsDiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.detailsDiv img {
+    border-radius: 50%;
+}
+
+hgroup > h2 {
+    background-color: cornsilk;
+}
+
+.detailsDiv > div {
+    width: 20%;
+}
+
+.detailsDiv > p {
+    width: 80%;
+}
