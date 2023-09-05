@@ -8,3 +8,16 @@ article > div {
 #adiv {
     width: 50%;
 }
+
+fieldset {
+    display: flex;
+    justify-self: center;
+    align-items: center;
+}
+
+fieldset > label{
+    display: inline-flex;
+    justify-self: center;
+    align-items: center;
+    width: 15%;
+}
